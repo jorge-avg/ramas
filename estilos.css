@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.formulario-registro{
+    width: 400px;
+    background: #7EBCC2;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    font-family: 'calibri';
+    color: white;
+    box-shadow: 7px 13px 37px #000;
+}
+
+.formulario-registro p{
+    height: 40px;
+    text-align: center;
+    font-size: 18px;
+    line-height: 40px;
+}
+
+.formulario-registro .boton{
+    width: 100%;
+    background:#B5E9CD ;
+    border-radius: 8px;
+    padding: 12px;
+    color: white;
+    margin: 16px 0;
+    font-size: 16px;
+}
+
+
+
+.formulario-registro .cuadros{
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 16px;
+    font-family: 'calibri';
+    font-size: 18px;
+}
+
+
+body{
+    background: #C7EAF3;
+
+}
+
